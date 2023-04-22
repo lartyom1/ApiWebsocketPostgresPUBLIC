@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWebsocketPostgres", "ApiWebsocketPostgres\ApiWebsocketPostgres.csproj", "{B47667EB-5D5B-4E24-BD5C-9D15E992C71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47667EB-5D5B-4E24-BD5C-9D15E992C71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47667EB-5D5B-4E24-BD5C-9D15E992C71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47667EB-5D5B-4E24-BD5C-9D15E992C71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47667EB-5D5B-4E24-BD5C-9D15E992C71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D75944-2F65-497B-8533-5BAF2B067357}
+	EndGlobalSection
+EndGlobal
